@@ -37,7 +37,7 @@ public class WifiService {
 			
 			History history = new History();
 			history.setLat(v_lat);
-			history.setLnt(v_lat);
+			history.setLnt(v_lnt);
 			
 			HistoryService historyService = new HistoryService();
 			historyService.insertSiteHistory(history);
