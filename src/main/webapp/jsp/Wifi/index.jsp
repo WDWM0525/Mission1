@@ -107,7 +107,7 @@
 	<div>
 		<a href="/">홈</a> | 
 		<a href="/jsp/History/history.jsp">위치 히스토리 목록</a> |
-		<a href="/Wifi/load-wifi.jsp">Open API 와이파이 정보 가져오기</a> |
+		<a href="/jsp/Wifi/load-wifi.jsp">Open API 와이파이 정보 가져오기</a> |
 		<a href="/jsp/BookMark/bookMark.jsp">북마크 보기</a> |
 		<a href="/jsp/BookMarkGroup/bookMarkGroup.jsp">북마크 그룹 관리</a>
 	</div>
